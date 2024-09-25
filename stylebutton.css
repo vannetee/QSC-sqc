@@ -1,0 +1,23 @@
+
+*{
+    margin: 50px;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    text-transform: capitalize;
+    text-decoration: none;  
+
+} 
+body  {
+    width: 100%;
+    height: 100vh;
+    background: url('Red\ Colorful\ Tips\ Youtube\ Thumbnail\(3\).png') no-repeat;
+    background-size: contain;
+    background-repeat: no-repeat;
+      
+}
+ul a {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    color: white;
+}
